@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Sid.Blazor.props" />
+</Project>
